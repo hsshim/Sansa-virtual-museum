@@ -1,0 +1,11 @@
+[1.a Cloud Compare Point Cloud Import] “LiDar point clouds are imported into Cloud Compare for mesh reconstruction.”
+[1.b Unity point cloud visualization] “Unity point cloud shaders enable visualization of the point cloud models.”
+
+
+[2.a Reality Capture Calculator Model] “Thousands of digital photos are processed in Reality Capture to generate high quality meshes.”
+
+
+[3.a Blender PLY File import] “Point Cloud meshes are imported into Blender for mesh decimation and image texturing.”
+[3.b Blender Baking Texture] “Image textures are developed for the meshes using the point cloud vertex colors baked onto a UV Map.”
+[3.c Unity UI] “Point clouds and meshes are arranged in preparation for information and storytelling features.”
+[3.d Information panel_stone stupa] “An Artifact Visualization feature is included in the virtual museum to present direct historical instruction to the user.”
